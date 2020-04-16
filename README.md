@@ -21,8 +21,7 @@ This tool also comes packed with my very own VFX- mod. This can be toggled off a
 # Installation:
 Run the installer and set the path to your game's directory **OR** put all files except for the .exe in your game's install directory. ex: C:\Program Files (x86)\Steam\steamapps\common\DARK SOULS III\Game
 
-**Uninstall** 
-
+# **Uninstall:** 
 Simply rename D3DCompiler_43.dll to something else or remove it entirely.
 
 # The DLL doesn't stop `x`, `y`, or `z`, help!
