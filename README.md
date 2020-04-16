@@ -18,3 +18,6 @@ _This is not meant to compete with the **PvP Watchdog for Dark Souls III**, plea
 
 # Installation:
 Download this repo as a zip and extract the contents to your game's directory so that the DLL is in the same folder as DarkSoulsIII.exe
+
+# The DLL doesn't stop `x`, `y`, or `z`, help!
+If you find that the DLL needs improvement somewhere, please open up an issue!
