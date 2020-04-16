@@ -1,5 +1,4 @@
 # PyreProtecc
-`does not include dogs`
 # Info
 This tool aims to prevent most cheats and malicious actions from cheaters in Dark Souls III such as:
 - Forced items in inventory
@@ -17,7 +16,7 @@ _This is not meant to compete with the **PvP Watchdog for Dark Souls III**, plea
 **You will not be banned for using this tool as portions of the anti-cheat have been modified to allow this DLL to run undetected.** 
 
 # Installation:
-Download this repo as a zip and extract the contents to your game's directory so that the DLL is in the same folder as DarkSoulsIII.exe
+Run the installer and set the path to your game's directory **OR** put all files except for the .exe in your game's install directory. ex: C:\Program Files (x86)\Steam\steamapps\common\DARK SOULS III\Game
 
 # The DLL doesn't stop `x`, `y`, or `z`, help!
 If you find that the DLL needs improvement somewhere, please open up an issue!
