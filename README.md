@@ -26,3 +26,6 @@ Simply rename D3DCompiler_43.dll to something else or remove it entirely.
 
 # The DLL doesn't stop `x`, `y`, or `z`, help!
 If you find that the DLL needs improvement somewhere, please open up an issue!
+
+# Need some support? Join the discord.
+https://discord.gg/ZWA36YT
