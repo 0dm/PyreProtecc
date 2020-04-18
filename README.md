@@ -30,3 +30,7 @@ If you find that the DLL needs improvement somewhere, please open up an issue!
 
 # Need some support? Join the discord.
 https://discord.gg/ZWA36YT
+
+# Check out the mod on Nexus Mods
+https://www.nexusmods.com/darksouls3/mods/516?tab=description
+
