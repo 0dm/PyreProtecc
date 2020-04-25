@@ -1,8 +1,0 @@
-1,0,-2,2,0.5,10,0.2  | Toggle for hotkeys, 1 == true and 0 == false,Toggle for VFX, 1 == true and 0 == false,VFX value (Makes game darker or brighter) R/G/B values, Brightness of map/Lighting, Brightness of VFX/Effects,Glow effects
-
----------
-Default VFX values were 1.1.1
-Original VFX edited values are 2.0.5.10
-
-If the shader mod seems to dark try out : 1,1,-1,2,0.9,10,0.2 
-Some screens are darker than others so VFX varies on user!
