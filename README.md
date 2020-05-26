@@ -26,7 +26,7 @@ Run the installer and set the path to your game's directory **OR** put all files
 Simply rename D3DCompiler_43.dll to something else or remove it entirely.
 
 # Other information
-PyreProtecc currently makes the game run in borderless window mode, this will be configurable in a future release. Also, Dark Souls III's main menu will display "The Fire Fades Edition" under the logo, this is just a visual element of the mod to let you know it is enabled and will not grant any DLC related content. 
+PyreProtecc currently makes the game run in borderless window mode, this will be configurable in a future release. Dark Souls III's main menu will display "The Fire Fades Edition" under the logo, this is just a visual element of the mod to let you know it is enabled and will not grant any DLC related content. 
 
 # The DLL doesn't stop `x`, `y`, or `z`, help!
 If you find that the DLL needs improvement somewhere, please open up an issue!
