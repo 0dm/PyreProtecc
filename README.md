@@ -1,4 +1,9 @@
 # PyreProtecc
+
+# BETA NOTICE
+This is the beta branch for PyreProtecc. These builds are for testing the latest releases before they go on Nexus Mods. Please report any bugs you find via Github Issues or via the [Discord server](https://discord.gg/ZWA36YT)
+
+
 # Info
 This tool aims to prevent most cheats and malicious actions from cheaters in Dark Souls III such as:
 - Forced items in inventory
