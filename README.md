@@ -9,7 +9,7 @@ This tool aims to prevent most cheats and malicious actions from cheaters in Dar
 - Players with modified stats
 - A wide array of networking exploits
 
-If you are to encounter a **cheater**, this tool will not only stop them from using cheats on you but it will also log their actual Steam-ID in Hex and Url-form for easy posting, It will severe the connection between you and the cheater to avoid any further exploits being attempted. This DLL also has an error reporting service that logs crash info to the file so that you can contact me and I will work hard to make this tool better. It will also log every person you encounter in sessions with time-stamps.
+If you are to encounter a **cheater**, this tool will not only stop them from using cheats on you but it will also log their actual Steam-ID in Hex and Url-form for easy posting, It will sever the connection between you and the cheater to avoid any further exploits being attempted. This DLL also has an error reporting service that logs crash info to the file so that you can contact me and I will work hard to make this tool better. It will also log every person you encounter in sessions with time-stamps.
 
 _This is not meant to compete with the **PvP Watchdog for Dark Souls III**, please use Watchdog instead if you want protections only, the creators of that tool have put in a lot of hard work and we don't want to take away from that._
 
